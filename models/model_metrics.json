@@ -1,0 +1,1385 @@
+{
+  "category": {
+    "best_model": "Naive Bayes",
+    "results": {
+      "Naive Bayes": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "confusion_matrix": [
+          [
+            30,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            30,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            30,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            30,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            30,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            30,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            30,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            30,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            30,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            30,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            30,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            30
+          ]
+        ],
+        "labels": [
+          "Education",
+          "Work",
+          "Finance",
+          "Shopping",
+          "Travel",
+          "Social",
+          "Security",
+          "Promotions",
+          "Personal",
+          "Events",
+          "Newsletter",
+          "Other"
+        ],
+        "classification_report": {
+          "Education": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Work": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Finance": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Shopping": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Travel": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Social": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Security": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Promotions": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Personal": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Events": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Newsletter": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Other": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "accuracy": 1.0,
+          "macro avg": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 360.0
+          },
+          "weighted avg": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 360.0
+          }
+        }
+      },
+      "Logistic Regression": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "confusion_matrix": [
+          [
+            30,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            30,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            30,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            30,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            30,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            30,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            30,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            30,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            30,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            30,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            30,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            30
+          ]
+        ],
+        "labels": [
+          "Education",
+          "Work",
+          "Finance",
+          "Shopping",
+          "Travel",
+          "Social",
+          "Security",
+          "Promotions",
+          "Personal",
+          "Events",
+          "Newsletter",
+          "Other"
+        ],
+        "classification_report": {
+          "Education": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Work": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Finance": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Shopping": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Travel": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Social": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Security": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Promotions": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Personal": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Events": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Newsletter": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Other": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "accuracy": 1.0,
+          "macro avg": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 360.0
+          },
+          "weighted avg": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 360.0
+          }
+        }
+      },
+      "Decision Tree": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "confusion_matrix": [
+          [
+            30,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            30,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            30,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            30,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            30,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            30,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            30,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            30,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            30,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            30,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            30,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            30
+          ]
+        ],
+        "labels": [
+          "Education",
+          "Work",
+          "Finance",
+          "Shopping",
+          "Travel",
+          "Social",
+          "Security",
+          "Promotions",
+          "Personal",
+          "Events",
+          "Newsletter",
+          "Other"
+        ],
+        "classification_report": {
+          "Education": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Work": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Finance": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Shopping": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Travel": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Social": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Security": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Promotions": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Personal": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Events": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Newsletter": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Other": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "accuracy": 1.0,
+          "macro avg": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 360.0
+          },
+          "weighted avg": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 360.0
+          }
+        }
+      },
+      "Random Forest": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "confusion_matrix": [
+          [
+            30,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            30,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            30,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            30,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            30,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            30,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            30,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            30,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            30,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            30,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            30,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            30
+          ]
+        ],
+        "labels": [
+          "Education",
+          "Work",
+          "Finance",
+          "Shopping",
+          "Travel",
+          "Social",
+          "Security",
+          "Promotions",
+          "Personal",
+          "Events",
+          "Newsletter",
+          "Other"
+        ],
+        "classification_report": {
+          "Education": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Work": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Finance": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Shopping": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Travel": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Social": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Security": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Promotions": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Personal": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Events": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Newsletter": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "Other": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 30.0
+          },
+          "accuracy": 1.0,
+          "macro avg": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 360.0
+          },
+          "weighted avg": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 360.0
+          }
+        }
+      }
+    },
+    "labels": [
+      "Education",
+      "Work",
+      "Finance",
+      "Shopping",
+      "Travel",
+      "Social",
+      "Security",
+      "Promotions",
+      "Personal",
+      "Events",
+      "Newsletter",
+      "Other"
+    ]
+  },
+  "priority": {
+    "best_model": "Logistic Regression",
+    "results": {
+      "Naive Bayes": {
+        "accuracy": 0.8194,
+        "precision": 0.8312,
+        "recall": 0.811,
+        "f1_score": 0.8191,
+        "confusion_matrix": [
+          [
+            121,
+            15,
+            0
+          ],
+          [
+            22,
+            113,
+            8
+          ],
+          [
+            0,
+            20,
+            61
+          ]
+        ],
+        "labels": [
+          "LOW",
+          "MEDIUM",
+          "HIGH"
+        ],
+        "classification_report": {
+          "LOW": {
+            "precision": 0.8461538461538461,
+            "recall": 0.8897058823529411,
+            "f1-score": 0.8673835125448028,
+            "support": 136.0
+          },
+          "MEDIUM": {
+            "precision": 0.7635135135135135,
+            "recall": 0.7902097902097902,
+            "f1-score": 0.7766323024054983,
+            "support": 143.0
+          },
+          "HIGH": {
+            "precision": 0.8840579710144928,
+            "recall": 0.7530864197530864,
+            "f1-score": 0.8133333333333334,
+            "support": 81.0
+          },
+          "accuracy": 0.8194444444444444,
+          "macro avg": {
+            "precision": 0.8312417768939508,
+            "recall": 0.8110006974386059,
+            "f1-score": 0.8191163827612115,
+            "support": 360.0
+          },
+          "weighted avg": {
+            "precision": 0.821855697670915,
+            "recall": 0.8194444444444444,
+            "f1-score": 0.8191738248613317,
+            "support": 360.0
+          }
+        }
+      },
+      "Logistic Regression": {
+        "accuracy": 0.8222,
+        "precision": 0.8284,
+        "recall": 0.8167,
+        "f1_score": 0.8218,
+        "confusion_matrix": [
+          [
+            119,
+            17,
+            0
+          ],
+          [
+            18,
+            114,
+            11
+          ],
+          [
+            0,
+            18,
+            63
+          ]
+        ],
+        "labels": [
+          "LOW",
+          "MEDIUM",
+          "HIGH"
+        ],
+        "classification_report": {
+          "LOW": {
+            "precision": 0.8686131386861314,
+            "recall": 0.875,
+            "f1-score": 0.8717948717948718,
+            "support": 136.0
+          },
+          "MEDIUM": {
+            "precision": 0.7651006711409396,
+            "recall": 0.7972027972027972,
+            "f1-score": 0.7808219178082192,
+            "support": 143.0
+          },
+          "HIGH": {
+            "precision": 0.8513513513513513,
+            "recall": 0.7777777777777778,
+            "f1-score": 0.8129032258064516,
+            "support": 81.0
+          },
+          "accuracy": 0.8222222222222222,
+          "macro avg": {
+            "precision": 0.8283550537261407,
+            "recall": 0.8166601916601915,
+            "f1-score": 0.8218400051365142,
+            "support": 360.0
+          },
+          "weighted avg": {
+            "precision": 0.8236117841497992,
+            "recall": 0.8222222222222222,
+            "f1-score": 0.8224077725027791,
+            "support": 360.0
+          }
+        }
+      },
+      "Decision Tree": {
+        "accuracy": 0.7917,
+        "precision": 0.8045,
+        "recall": 0.7899,
+        "f1_score": 0.7962,
+        "confusion_matrix": [
+          [
+            110,
+            26,
+            0
+          ],
+          [
+            20,
+            112,
+            11
+          ],
+          [
+            1,
+            17,
+            63
+          ]
+        ],
+        "labels": [
+          "LOW",
+          "MEDIUM",
+          "HIGH"
+        ],
+        "classification_report": {
+          "LOW": {
+            "precision": 0.8396946564885496,
+            "recall": 0.8088235294117647,
+            "f1-score": 0.8239700374531835,
+            "support": 136.0
+          },
+          "MEDIUM": {
+            "precision": 0.7225806451612903,
+            "recall": 0.7832167832167832,
+            "f1-score": 0.7516778523489933,
+            "support": 143.0
+          },
+          "HIGH": {
+            "precision": 0.8513513513513513,
+            "recall": 0.7777777777777778,
+            "f1-score": 0.8129032258064516,
+            "support": 81.0
+          },
+          "accuracy": 0.7916666666666666,
+          "macro avg": {
+            "precision": 0.8045422176670637,
+            "recall": 0.7899393634687751,
+            "f1-score": 0.7961837052028762,
+            "support": 360.0
+          },
+          "weighted avg": {
+            "precision": 0.7957971249999076,
+            "recall": 0.7916666666666666,
+            "f1-score": 0.7927639424162821,
+            "support": 360.0
+          }
+        }
+      },
+      "Random Forest": {
+        "accuracy": 0.8139,
+        "precision": 0.8203,
+        "recall": 0.8076,
+        "f1_score": 0.8132,
+        "confusion_matrix": [
+          [
+            117,
+            19,
+            0
+          ],
+          [
+            17,
+            114,
+            12
+          ],
+          [
+            0,
+            19,
+            62
+          ]
+        ],
+        "labels": [
+          "LOW",
+          "MEDIUM",
+          "HIGH"
+        ],
+        "classification_report": {
+          "LOW": {
+            "precision": 0.8731343283582089,
+            "recall": 0.8602941176470589,
+            "f1-score": 0.8666666666666667,
+            "support": 136.0
+          },
+          "MEDIUM": {
+            "precision": 0.75,
+            "recall": 0.7972027972027972,
+            "f1-score": 0.7728813559322034,
+            "support": 143.0
+          },
+          "HIGH": {
+            "precision": 0.8378378378378378,
+            "recall": 0.7654320987654321,
+            "f1-score": 0.8,
+            "support": 81.0
+          },
+          "accuracy": 0.8138888888888889,
+          "macro avg": {
+            "precision": 0.8203240553986823,
+            "recall": 0.8076430045384293,
+            "f1-score": 0.8131826741996234,
+            "support": 360.0
+          },
+          "weighted avg": {
+            "precision": 0.8162809264488369,
+            "recall": 0.8138888888888889,
+            "f1-score": 0.8144130571249216,
+            "support": 360.0
+          }
+        }
+      }
+    },
+    "labels": [
+      "LOW",
+      "MEDIUM",
+      "HIGH"
+    ]
+  },
+  "dataset_size": 1800,
+  "random_state": 42
+}
